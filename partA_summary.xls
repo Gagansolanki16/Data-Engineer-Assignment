@@ -1,0 +1,3 @@
+file,row_count,duplicates,missing_team,missing_env,zero_or_negative_cost
+aws,2942,0,0,0,39
+gcp,2907,0,0,0,38
